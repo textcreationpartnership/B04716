@@ -1,0 +1,416 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pleasant ballad of King Henry the second, and the miller of Mansfield, and how he was entertained and lodged at the miller's house, and of their pleasant communication. To the tune of the French Levalta, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04716</idno>
+            <idno type="STC">Wing P2533A</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[178]</idno>
+            <idno type="EEBO-CITATION">99884279</idno>
+            <idno type="PROQUEST">ocm99884279</idno>
+            <idno type="VID">183013</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04716)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183013)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[95])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pleasant ballad of King Henry the second, and the miller of Mansfield, and how he was entertained and lodged at the miller's house, and of their pleasant communication. To the tune of the French Levalta, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by and for A. Milbourn in Green-Arbor-Court in the Little Old-Baily,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date suggested by Wing.</note>
+                  <note>In two parts, separated for mounting; the second part has caption title: The second part of the King and Miller, shewing how he came to the court with his wife and son, and what merry conceits passed between the King and them.</note>
+                  <note>Verse: "Henry, our royal King, would ride a hunting ..."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Henry --  II, --  King of England, 1133-1189 --  Poetry --  Early works to 1800.</term>
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <div type="part">
+               <pb n="178" facs="tcp:183013:1"/>
+               <head>A Pleaſant Ballad of King <hi>Henry</hi> the ſecond, and the Miller of <hi>Manſfield,</hi> and how he was Entertained and Lodged at the Miller's Houſe, and of their pleaſant Com<g ref="char:EOLhyphen"/>munication.</head>
+               <p>
+                  <hi>To the tune of the</hi> French Levalto, <hi>&amp;c.</hi>
+               </p>
+               <l>
+                  <hi>HEnry,</hi> our Royal King, would ride a Hunting.</l>
+               <l>to the green Forreſt, to pleaſant and fair,</l>
+               <l>To have the Hart chaſed, and dainty Does tripping,</l>
+               <l>unto merry <hi>Sherwood</hi> his Nobles repair;</l>
+               <l>Hawk and Hound was unbound, all things prepar'd</l>
+               <l>For the ſame: To the Game, with good regard,</l>
+               <l>All a long Summers Day, rode the King pleaſantly,</l>
+               <l>with all his Princes, and Nobles; each one</l>
+               <l>Chaſing the Hart, and Hind, &amp; the Buck gallantly,</l>
+               <l>till the dark Evening forc'd Him to turn home.</l>
+               <l>Then, at laſt, riding faſt, he had loſt quite</l>
+               <l>All his Lords in the Wood; late, in dark Night,</l>
+               <l>Wand'ring thus, warily, all alone, up and down,</l>
+               <l>with a rude Miller he met, at the laſt:</l>
+               <l>Asking the ready way unto fair <hi>Nottingham.</hi>
+               </l>
+               <l>Sir, (quoth the Miller) your way you have loſt;</l>
+               <l>Yet I think what I think, truth for to ſay,</l>
+               <l>You do not likely ride out of your way.</l>
+               <l>Why? what doſt thou think of me? <abbr>qd.</abbr>. our K. merily,</l>
+               <l>paſſing thy judgment upon me ſo brief.</l>
+               <l>Good faith, (ſaid the Miller) I mean not to flatter thee,</l>
+               <l>I gueſs thee to be but ſome Gentleman-Thief:</l>
+               <l>Stand thee back in the dark, light thee not down,</l>
+               <l>Leaſt that I preſently crack thy Kaves crown.</l>
+               <l>Thou haſt abus'd me much, (<abbr>qd.</abbr> the King, ſaying thus)</l>
+               <l>I am a Gentleman, and Lodging I lack.</l>
+               <l>Then haſt not (<abbr>qd.</abbr> the miller) one groat in thy purſe,</l>
+               <l>all thy Inheritance hangs on thy back.</l>
+               <l>I have gold to diſcharge all that I call,</l>
+               <l>If it be Forty Pence I will pay all.</l>
+               <l>If thou beeſt a True-man, (then quoth the Miller)</l>
+               <l>I ſwear by my tole-diſh, I'll lodge thee all night.</l>
+               <l>Here's my hand, (quoth the King) that was I ever.</l>
+               <l>Nay, ſoft, (<abbr>qd.</abbr> the Miller) thou may'ſt be a Spright,</l>
+               <l>Better I'll know thee e'er hands I will take,</l>
+               <l>With none but honeſt men hands will I ſhake.</l>
+               <l>Thus they went all along unto the Miller's houſe,</l>
+               <l>where they were ſeething of Puddings and Souſe;</l>
+               <l>The Miller firſt entred in, then after him the King,</l>
+               <l>never came he in ſo ſmoaky a houſe:</l>
+               <l>Now (quoth he) let me ſee here what you are.</l>
+               <l>Quoth our King<g ref="char:punc">▪</g> Look your fill, and do not ſpare.</l>
+               <l>I like thy countenance, thou haſt an honeſt face,</l>
+               <l>with my Son <hi>Richard</hi> this night thou ſhalt lye,</l>
+               <l>Quoth his wife, By my troth it is a handſom Youth,</l>
+               <l>yet it is beſt (husband) for to deal warily:</l>
+               <l>Art thou not a Run-away, prethee Youth tell?</l>
+               <l>Shew me thy Paſport and all ſhall he well.</l>
+               <l>Then our King preſently making <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> courteſie,</l>
+               <l>with his Hat in his hand, thus he did ſay,</l>
+               <l>I have no paſ<gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, nor never was Servitor,</l>
+               <l>but a poor Courtier rode but of my way:</l>
+               <l>And for your kindneſs here offered me,</l>
+               <l>I will requite it in every degree.</l>
+               <l>Then to the Miller his wife whiſpered ſecretly,</l>
+               <l>ſaying it ſeems this Youth's of good <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in.</l>
+               <l>Both by his apparel and eke by his manners,</l>
+               <l>to turn him out certainly 'twere a great ſin.</l>
+               <l>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> (quoth he) you may ſee he hath ſome grace,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>en he doth ſpeak to his betters in place.</l>
+               <l>Well, <abbr>qd</abbr> the Miller's wife, young man welcom here,</l>
+               <l>and tho' I ſay it well lodg'd thou ſhalt be,</l>
+               <l>Freſh ſtraw I will have laid on thy bed ſo made,</l>
+               <l>good brown hempen-ſheets likewiſe, quoth ſhe.</l>
+               <l>Ay, quoth the good man, and when that is done</l>
+               <l>You ſhall lye with no worſe than my own Son.</l>
+               <l>Nay firſt (quoth <hi>Richard</hi>) Good fellow tell me true,</l>
+               <l>haſt thou no Creepers within thy gay Hoſe?</l>
+               <l>Or art thou not troubled with the Scabbado?</l>
+               <l>I pray quoth our King what things are thoſe?</l>
+               <l>art thou not lowſſe nor ſcabby? quoth he,</l>
+               <l>If thou beeſt, ſurely thou ly'ſt not with me.</l>
+               <l>This caus'd the King ſuddenly to laugh moſt heartily</l>
+               <l>till the tears trickled down from his eyes;</l>
+               <l>Then to their ſupper were they ſet orderly,</l>
+               <l>with a hot bag-pudding and good apple-pies;</l>
+               <l>Nappy ale good and ſtalé in a brown bowl,</l>
+               <l>Which did about the board merrily trowl.</l>
+               <l>Here <abbr>qd</abbr> the miller good fellow I'll drink to thee,</l>
+               <l>and to all Courtnals where-ever they be.</l>
+               <l>I'll pledge you quoth our King, and thank you heartly</l>
+               <l>for your good welcome in every degree;</l>
+               <l>And here in like manner I'll drink to your Son.</l>
+               <l>Do ſo, quoth <hi>Richard,</hi> but quick let it come.</l>
+               <l>Wife, quoth the miller, fetch me forth Light-foot</l>
+               <l>that we of his ſweetneſs a little may taſte;</l>
+               <l>A fair veniſion-paſty then brought ſhe forth preſently<g ref="char:punc">▪</g>
+               </l>
+               <l>Eat, quoth the miller, but Sir make no waſte:</l>
+               <l>Here's dainty Light-foot, in faith, ſaid our King,</l>
+               <l>I never before did Eat ſo dainty a thing.</l>
+               <l>I wis, faid <hi>Richard,</hi> no dainty at all it is,</l>
+               <l>for we do eat of it every day;</l>
+               <l>In what place, ſaid the K. may he bought like to this</l>
+               <l>We never pay penny for it by fay.</l>
+               <l>From merry <hi>Sherwood</hi> we fetch it home here,</l>
+               <l>Now and then we make bold with our King's deer:</l>
+               <l>Then I think, ſaid our King, thus it is venision.</l>
+               <l>Each fool quoth Richard, full well may ſee that;</l>
+               <l>Never are we without two or three under the roof,</l>
+               <l>very well fleſhed and excellent fat:</l>
+               <l>But prethee ſay nothing where ever thou go,</l>
+               <l>We would not for two-pence the King ſhould it know</l>
+               <l>Doubt not, then ſaid the King, my promis'd ſecreſie,</l>
+               <l>the King ſhall never know more on't for me.</l>
+               <l>A cu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of lambs-wool they drank unto him then,</l>
+               <l>and to their beds they paſt preſently:</l>
+               <l>The Nobles next morning went all up and down</l>
+               <l>For to ſeek out the King in every town.</l>
+               <l>At laſt at the millers houſe ſoon they eſpy'd him plain </l>
+               <l>as he was mounting upon his fair Steed,</l>
+               <l>To whom they came preſently falling upon their knee,</l>
+               <l>which made the miller's heart wofully bleed;</l>
+               <l>Shaking and quaking before them he ſtood.</l>
+               <l>Thinking he ſhould have been hang'd by the rood:</l>
+               <l>The King perceiving him fearful and trembling.</l>
+               <l>drew forth his ſword and nothing he ſaid.</l>
+               <l>The miller down did fall, crying before them all,</l>
+               <l>doubting the King would have cut off his head;</l>
+               <l>
+                  <hi>But</hi> his kind Courteſie for to requite,</l>
+               <l>Gave him a living, and made him a knight.</l>
+            </div>
+            <div type="part">
+               <pb n="179" facs="tcp:183013:1"/>
+               <head>The Second Part of the King and Miller, ſhewing how he came to Court with his wife and ſon, and what merry Conceits paſſed between the King and them.</head>
+               <l>When as our Royal k. came home from <hi>Nottingham</hi>
+               </l>
+               <l>and with his Nobles <hi>at VVeſtminſter</hi> lay,</l>
+               <l>Recounting the ſports and paſtimes they had tane,</l>
+               <l>in this late Progreſs along by the way:</l>
+               <l>Of them all great and ſmall he did proteſt,</l>
+               <l>The miller of <hi>Mansfield</hi>'s ſport liked him beſt:</l>
+               <l>And now my Lords, <abbr>qd</abbr> the king I am determined,</l>
+               <l>againſt St. <hi>George</hi>'s next a ſumptuous feaſt,</l>
+               <l>That this old miller our laſt confirmed knight</l>
+               <l>with his ſon <hi>Richard</hi> ſhall both be my Gueſs,</l>
+               <l>For in this merriment 'tis my deſire,</l>
+               <l>To talk with the jolly knight and the young Squire.</l>
+               <l>When as the Lords ſaw the kings pleaſantneſs,</l>
+               <l>they were right joyful and glad in their hearts.</l>
+               <l>A Purſevant there was ſent ſtreight on the buſineſs,</l>
+               <l>the which had oftentimes been in thoſe parts:</l>
+               <l>When he came to the place where he did dwell,</l>
+               <l>His meſſage orderly then he did tell:</l>
+               <l>God ſave your worſhip then ſaid the meſſenger,</l>
+               <l>and grant your Lady her hearts deſire;</l>
+               <l>And to your Son <hi>Richard</hi> good fortune &amp; happineſs</l>
+               <l>that ſweet young Gentleman &amp; gallant youngſ ſquire,</l>
+               <l>Our king greets you all, and thus doth ſay,</l>
+               <l>You muſt come to the Court on St. <hi>Georges</hi> day.</l>
+               <l>Therefore in any caſe, fail not to be in place.</l>
+               <l>I wis quoth the miller this is an odd jeſt,</l>
+               <l>what ſhould we do there he ſaid faith I am half afraid</l>
+               <l>I doubt quoth <hi>Richard</hi> be hang'd at the leaſt,</l>
+               <l>Nay quoth the meſſenger you do miſtake,</l>
+               <l>Our king he provides a great feaſt for your ſake.</l>
+               <l>Then ſaid the miller now by my troth meſſenger,</l>
+               <l>thou haſt contented my worſhip full well;</l>
+               <l>Hold here's &amp; farthings to quit thy great gentleneſs,</l>
+               <l>for theſe happy tydings which thou doſt me tell;</l>
+               <l>Let me ſee heres to thee, tell to our king</l>
+               <l>we'll wait on his maſterſhip in every thing.</l>
+               <l>The Purſevant ſmiled at their ſimplicity,</l>
+               <l>and making many legs took their Reward:</l>
+               <l>And taking then his leave with great humility</l>
+               <l>to the kings Court again he repair'd:</l>
+               <l>ſhewing unto his Grace in each degree</l>
+               <l>The knights moſt liberal gift and bounty.</l>
+               <l>VVhen he was gone away thus did the miller ſay,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e comes expences and charges indeed</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>om we muſt needs be brave though we ſpend all wehave;</l>
+               <l>for of new Garments we have great need:</l>
+               <l>Of horſes and ſerving men we muſt have ſtore,</l>
+               <l>VVith bridles and ſaddles, and twenty things more.</l>
+               <l>Tuſh Sir <hi>John</hi> 
+                  <abbr>qd</abbr> his wife never fret nor frown,</l>
+               <l>you ſhall be at no more charges for me.</l>
+               <l>For I will turn and trim up my old Ruſſet Gown,</l>
+               <l>with every thing as fine as may be:</l>
+               <l>and on our mill horſes full ſwift we will ride.</l>
+               <l>VVith pillows and pannels as we ſhall provide.</l>
+               <l>In this moſt ſtately ſort Rode they unto the Court,</l>
+               <l>their jolly Son <hi>Richard</hi> foremoſt of all,</l>
+               <l>VVho ſet up by good hap a Cocks Feather in his cap,</l>
+               <l>and ſo they jetted down towards the King's hall.</l>
+               <l>the merry old miller with his hands on his ſide,</l>
+               <l>His VVife like maid B<gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to mince at that tide.</l>
+               <l>The king and his nobles that heard of his coming,</l>
+               <l>meeting this gallant knight with his brave train,</l>
+               <l>Welcome Sir knight <abbr>qd</abbr> he with this your gay Lady.</l>
+               <l>good Sir <hi>John Cockle</hi> once welcome again;</l>
+               <l>And ſo is this ſquire of courage ſo free.</l>
+               <l>Quoth <hi>Dick, <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> on you do yo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> know me?</hi>
+               </l>
+               <l>Quoth our king gently, How ſhould I forget thee:</l>
+               <l>thou waſt my own Bedfellow well that I wot.</l>
+               <l>But I think of a trick, tell me that prethee <hi>Dick,</hi>
+               </l>
+               <l>how thou with farting didſt make the bed hot?</l>
+               <l>Thou whorſon happy knave then quoth the knight,</l>
+               <l>ſpeak cleanly to our king, or elſe go ſhite.</l>
+               <l>The king and his Courtiers heartily laugh'd at this,</l>
+               <l>while the king took them both by the hand;</l>
+               <l>With Ladies and their Maids, like to the Queen of Spades,</l>
+               <l>the Millers wife did ſo orderly ſtand,</l>
+               <l>A Milk-maids courteſie at every word,</l>
+               <l>And down the Folks were ſet at the ſide board:</l>
+               <l>Where the king royally in Princely majeſty,</l>
+               <l>ſat at his dinner with joy and delight;</l>
+               <l>When they had eaten well to jeſting then they fell,</l>
+               <l>taking a bowl of wine drank to the knight:</l>
+               <l>Here's to you both he ſaid in wine ale and beer,</l>
+               <l>Thanking you all for your Country Cheer.</l>
+               <l>Quoth Sir <hi>John Cockle</hi> I'll pledge you a bottle,</l>
+               <l>were it the beſt ale in Nottingham-ſhire.</l>
+               <l>But then ſaid the king I do think of a thing,</l>
+               <l>ſome of your Light foot I would we had here;</l>
+               <l>No <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o quoth Richard full well I may ſay it,</l>
+               <l>Tis knavery to eat it and then to betray it.</l>
+               <l>Why art thou angry? quoth our king merrily,</l>
+               <l>in faith I take it very unkind,</l>
+               <l>I thought thou wouldſt pledge me in ale and wine heartily</l>
+               <l>You'r like to ſtay quoth <hi>Dick</hi> till I have din'd,</l>
+               <l>You feed us with twailing diſhes ſo ſmall,</l>
+               <l>Zounds a black Pudding is better than all.</l>
+               <l>ay marry quoth our king that were a dainty thing,</l>
+               <l>if a man could get one here for to eat.</l>
+               <l>with that <hi>Dick</hi> aroſe and pluckt one out of his hoſe,</l>
+               <l>which with heat of his breech began for to ſweat:</l>
+               <l>The king made a proffer to ſnatch it away,</l>
+               <l>Tis meat for your Maſter good Sir you muſt ſtay.</l>
+               <l>thus in great merriment was the time wholly ſpent,</l>
+               <l>and then the Ladies prepared to dance,</l>
+               <l>Did Sir <hi>John Cockle</hi> and <hi>Richard</hi> incont<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nent,</l>
+               <l>unto this practice the king did advance;</l>
+               <l>Here with the Ladies ſuch ſport they did make,</l>
+               <l>the Nobles with laughing did make their hearts ake,</l>
+               <l>Many thanks for their pains did the king give them,</l>
+               <l>asking young <hi>Richard</hi> if he would wed,</l>
+               <l>among theſe Ladies free tell me which liketh thee:</l>
+               <l>Duoth he <hi>Ju<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Grumbol</hi> with the Red head;</l>
+               <l>Shes my love ſhes my life ſhe will I wed,</l>
+               <l>She hath ſworn I ſhall have her maiden head,</l>
+               <l>then Sir <hi>John Cockle</hi> the king called unto him,</l>
+               <l>and of merry <hi>Sherwood</hi> made him Over-ſeer.</l>
+               <l>and gave him out of hand three hundred pound yearly.</l>
+               <l>and now take heed you ſteel no more of my Deer:</l>
+               <l>and once a quarter lets here have your view</l>
+               <l>and thus Sir <hi>John Cockle</hi> I bid you adieu.</l>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Prin<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>for A Milbourn in <hi>Green-Arbor-Court in the</hi> Little Old-Baily.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
